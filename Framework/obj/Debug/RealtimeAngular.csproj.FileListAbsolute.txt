@@ -1,0 +1,6 @@
+D:\Projects\Angular\Dashboard\Framework\bin\RealtimeAngular.dll.config
+D:\Projects\Angular\Dashboard\Framework\bin\RealtimeAngular.dll
+D:\Projects\Angular\Dashboard\Framework\bin\RealtimeAngular.pdb
+D:\Projects\Angular\Dashboard\Framework\obj\Debug\RealtimeAngular.csprojResolveAssemblyReference.cache
+D:\Projects\Angular\Dashboard\Framework\obj\Debug\RealtimeAngular.dll
+D:\Projects\Angular\Dashboard\Framework\obj\Debug\RealtimeAngular.pdb
